@@ -8,3 +8,6 @@ The presentation consists of theory ,observations ,results ,conclusions and futu
 
 # Software 
 - [MATLAB](https://www.mathworks.com/products/matlab-online.html) has been used for evaluating the parameters, plotting the graphs because of its extensive plotting module and relevant inbuilt functions.
+
+# PS
+Github doesn't render large pdf files as of now, you can download those files for viewing them. 
