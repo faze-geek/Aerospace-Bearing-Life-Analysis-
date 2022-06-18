@@ -7,4 +7,4 @@ This repository contains the reference research papers and my final presentation
 The presentation consists of theory ,observations ,results ,conclusions and future work if any interested student would like to continue this project.
 
 # Software 
-MATLABhttps://www.mathworks.com/products/matlab-online.html has been used for evaluating the parameters and plotting the graphs because of its extensive plotting module and relevant inbuilt functions.
+- [MATLAB](https://www.mathworks.com/products/matlab-online.html) has been used for evaluating the parameters, plotting the graphs because of its extensive plotting module and relevant inbuilt functions.
